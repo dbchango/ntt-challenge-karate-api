@@ -1,8 +1,5 @@
 # Ejercicio Karate Cucumber
 
-## Descripción
-En este repositorio se encuentra el proyecto correspondiente a las automatizaciones de pruebas de APIS
-
 ## 1. Prerrequisitos
 - Windows 10/11
 - JDK: 17
