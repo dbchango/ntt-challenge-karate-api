@@ -1,1 +1,3 @@
+Conclusiones y hallazgos
 
+Al realizar este proyecto se pudo aprovechar la característica de Karate para el levantamiento de pruebas automáticas utilizando el lenguaje natural, algo muy fácul de comprender y utilizar por parte de personas técnicas y analistas funcionales. El uso de karate facilita la automatización de pruebas de APIs significativamente a comparación del uso de otras herramientas en el mercado. Además, el dinamismo de la herramienta aborda dos fundamentales, que son la automatización de las pruebas y la generación de los reportes, al mostrar reportes completos con toda la información de la petición y de la respuesta de las APIs. 
