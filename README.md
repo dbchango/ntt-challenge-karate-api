@@ -1,0 +1,1 @@
+# ntt-challenge-karate-api
