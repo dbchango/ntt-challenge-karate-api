@@ -23,9 +23,4 @@
 
 ## 3. Información adicional
 Referencias:
-   https://github.com/karatelabs/karate
-- Crear un usuario
-- Buscar el usuario creado
-- Actualizar el nombre y el correo del usuario
-- Buscar el usuario actualizado
-- Eliminar el usuario
+- https://github.com/karatelabs/karate
